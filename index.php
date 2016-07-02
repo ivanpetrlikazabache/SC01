@@ -5,11 +5,11 @@
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body>
+    <body     bgcolor="green">
         <?php
           //COMPARTIENDO DESDE LA NUBE
       
-        echo "Compartiendo desde La Nube"
+        echo "PUEDO HACER MUCHOS CAMBIOS !!!!!!!";
         ?>
     </body>
 </html>
